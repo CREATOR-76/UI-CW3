@@ -1,0 +1,5 @@
+/Users/creator/Desktop/UI_CW3_Group_15-main/cmake-build-debug/CMakeFiles/quaketool.dir
+/Users/creator/Desktop/UI_CW3_Group_15-main/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/creator/Desktop/UI_CW3_Group_15-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/creator/Desktop/UI_CW3_Group_15-main/cmake-build-debug/CMakeFiles/quaketool_autogen_timestamp_deps.dir
+/Users/creator/Desktop/UI_CW3_Group_15-main/cmake-build-debug/CMakeFiles/quaketool_autogen.dir
